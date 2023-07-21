@@ -1,0 +1,35 @@
+{
+  "Schematic": {
+    "PaletteMax": 17,
+    "Palette": {
+      "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]": 15,
+      "minecraft:sea_lantern": 5,
+      "minecraft:oak_log[axis=y]": 10,
+      "minecraft:brown_wool": 9,
+      "minecraft:end_stone": 3,
+      "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]": 14,
+      "minecraft:dirt": 11,
+      "minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]": 16,
+      "minecraft:clay": 1,
+      "minecraft:air": 12,
+      "minecraft:chiseled_polished_blackstone": 2,
+      "minecraft:oak_leaves[distance=2,persistent=true,waterlogged=false]": 6,
+      "minecraft:redstone_wire[east=none,north=none,power=0,south=none,west=none]": 13,
+      "minecraft:purpur_block": 4,
+      "minecraft:packed_ice": 0,
+      "minecraft:red_wool": 7,
+      "minecraft:cherry_leaves[distance=1,persistent=true,waterlogged=false]": 8
+    },
+    "Version": 2,
+    "Length": 6,
+    "Metadata": { "WEOffsetX": 9, "WEOffsetY": -2, "WEOffsetZ": -1 },
+    "Height": 2,
+    "DataVersion": 3465,
+    "BlockData": [
+      0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 12, 12, 12, 13, 12, 12, 12,
+      14, 15, 16
+    ],
+    "BlockEntities": [],
+    "Width": 2
+  }
+}
