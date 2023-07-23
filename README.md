@@ -1,4 +1,7 @@
-# Minecraft Building Classifier
+# MClassifier
+
+# NOTE: This is a work in progress. As such, the README is only intended to be a placeholder for now.
+# Ignore the contents of this file for now.
 
 ## Description
 
